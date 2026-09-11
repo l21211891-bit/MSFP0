@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del estudiante
-Carlos Daniel Frausto Luna \[C18210366]; carlos.frausto18@tectijuana.edu.mx
+Africa Montserrat Rodriguez Garcia \[C21211891]; L21211891@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
